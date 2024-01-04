@@ -8,6 +8,13 @@
 
 Este projeto demonstra um radar ultrassônico utilizando um sensor HC-SR04 e um display OLED com o Raspberry Pi Pico. O código proporciona uma visualização gráfica da função do sensor, exibindo a distância medida e representações gráficas de diferentes níveis de proximidade.
 
+## Requisitos
+
+Antes de utilizar este projeto, certifique-se de ter os seguintes componentes:
+
+- Sensor HC-SR04
+- Display OLED de 1.3 ou 0.96 polegadas
+
 ## Mapa de Pinos
 
 ### Sensor HC-SR04
