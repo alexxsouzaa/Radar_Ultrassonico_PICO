@@ -1,0 +1,49 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Arquivos específicos do Arduino IDE
+*.hex
+*.bin
+*.eep
+*.elf
+*.map
+*.lst
+
+# Diretórios específicos do Arduino IDE
+/.vscode/
+/.pio/
+/build/
+
+# Outros arquivos
+.DS_Store
+Thumbs.db
